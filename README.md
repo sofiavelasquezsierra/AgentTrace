@@ -2,7 +2,7 @@
 
 **Know if your AI agent is ready to ship — before your customers find out it isn't.**
 
-![AgentTrace Demo](screenshot.png)
+![AgentTrace Demo](hero.png)
 
 ## The Problem
 
@@ -11,6 +11,13 @@ Companies deploying AI customer service agents face a critical gap: there's no s
 ## The Solution
 
 AgentTrace lets you define your agent's persona and policies, run structured test conversations, and get an instant scored evaluation report — helpfulness, policy compliance, tone consistency, failure modes, and concrete improvement suggestions.
+
+**Evaluation Report:**
+
+![eval](evaluation.png)
+
+
+![wins](wins.png)
 
 **Built for:** Product and engineering teams building customer-facing AI agents who need a faster feedback loop between "we changed the system prompt" and "we know if it's better."
 
