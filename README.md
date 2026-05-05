@@ -22,7 +22,7 @@ AgentTrace lets you define your agent's persona and policies, run structured tes
 - Export evaluation reports for team review
 
 ## Live Demo
-[Streamlit Community Cloud link]
+[Streamlit Community Cloud link](https://agenttrace.streamlit.app/)
 
 ## Product Decisions I Made
 
